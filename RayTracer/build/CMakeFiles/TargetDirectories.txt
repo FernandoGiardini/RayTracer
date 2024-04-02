@@ -1,0 +1,3 @@
+/home/giardinif/C++/GAME/build/CMakeFiles/main.dir
+/home/giardinif/C++/GAME/build/CMakeFiles/edit_cache.dir
+/home/giardinif/C++/GAME/build/CMakeFiles/rebuild_cache.dir
