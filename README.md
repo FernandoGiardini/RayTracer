@@ -4,8 +4,9 @@
 Documento original: https://raytracing.github.io/v3/books/RayTracingInOneWeekend.html<br><br>
 
 > Resultados interessantes para efeito de ilustração:<br><br>
-![Imagem 2](https://github.com/FernandoGiardini/RayTracer/blob/main/Comeco.jpg)
-![Imagem 1](https://github.com/FernandoGiardini/RayTracer/blob/main/focado.jpeg)
+![Imagem 2](https://github.com/FernandoGiardini/RayTracer/blob/main/primeiraProfundidade.jpg)
 ![Imagem 2](https://github.com/FernandoGiardini/RayTracer/blob/main/ImagemManeira.jpeg)
-![Imagem 1](https://github.com/FernandoGiardini/RayTracer/blob/main/Alto-sm.jpg)
+![Imagem 2](https://github.com/FernandoGiardini/RayTracer/blob/main/image.jpeg)
+![Imagem 1](https://github.com/FernandoGiardini/RayTracer/blob/main/focado.jpeg)
+![Imagem 1](https://github.com/FernandoGiardini/RayTracer/blob/main/Alto.jpg)
 ![Imagem 1](https://github.com/FernandoGiardini/RayTracer/blob/main/outralegal.jpeg)
